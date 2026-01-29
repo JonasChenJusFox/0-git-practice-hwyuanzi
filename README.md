@@ -14,3 +14,10 @@ This article nails the difference between developers and engineers: the former b
 ### Comment by Celia Liang
 
 Interesting perspective. I think AI might actually be amplifying the gap between developers and engineers rather than blurring it. When code generation becomes trivial, the scarce skill is not writing code.  Instead, it is knowing when to use AI, when not to, and how to integrate it into broader system decisions. That said, the article implicitly assumes "engineer > developer" as the natural career progression, but this does not hold true everywhere. In fields that prioritize creativity, user experience, or rapid iteration, deep development skills remain irreplaceable in their own right.
+
+### Comment by Jonas Chen
+
+I found the article’s breakdown helpful because it frames the developer versus engineer distinction as a difference in responsibility rather than skill level. The emphasis on system-wide thinking, failure cases, and long-term maintenance made it clear why engineering roles often require broader context beyond writing correct code.
+
+At the same time, the career paths described feel more like tendencies than strict rules. In practice, especially in smaller teams or fast-moving environments, developers are often required to think like engineers as well. This made me realize that developing an engineering mindset early can be valuable regardless of the specific job title.
+
